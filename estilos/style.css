@@ -29,9 +29,17 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
+    height: 504px;
+    width: 250px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone-pqn.png') no-repeat;
 
+}
+
+iframe#tela {
+    position: relative;
+    top: 65px;
+    left: 18px;
+    width: 214px;
+    height: 378px;
 }
